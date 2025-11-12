@@ -2,6 +2,7 @@
 
 A full-stack investment portfolio tracking application built with the MERN stack (MongoDB, Express.js, React, Node.js). This application helps investors manage and track their investment portfolios across multiple asset classes including stocks, commodities, forex, bonds, ETFs, and cryptocurrencies.
 
+## live demo https://agent-69149b7b78d562fbd86--resonant-pixie-03a1ac.netlify.app/
 
 
 ## Overview 🌟
