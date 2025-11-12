@@ -2,7 +2,7 @@
 
 A full-stack investment portfolio tracking application built with the MERN stack (MongoDB, Express.js, React, Node.js). This application helps investors manage and track their investment portfolios across multiple asset classes including stocks, commodities, forex, bonds, ETFs, and cryptocurrencies.
 
-🌐 **Live Demo:** https://investfolio.vercel.app
+
 
 ## Overview 🌟
 
